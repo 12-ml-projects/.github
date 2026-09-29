@@ -10,7 +10,7 @@ Each project is its own repository, or even a collection of repositories. The ai
 |---|---------|----------------|--------|
 | 1 | [hand-rolled-nn](https://github.com/12-ml-projects/hand-rolled-simple-neural-networks) | CNNs, FFNNs, automatic differentiation, backpropagation, tensors, ONNX | Done |
 | 1 | [board-games](https://github.com/12-ml-projects/board-games) | game engines, minimax algorithm, Elo ladders, Bradley-Terry model, basic reinforcement learning, AlphaZero | Done |
-| 3 | — | LLMs, tokenization, scaling laws, model compression, context free grammars, information theory, LoRA | In Progress |
+| 3 | [transformer](https://github.com/12-ml-projects/transformer) | LLMs, tokenization, scaling laws, model compression, context free grammars, information theory, LoRA, QLoRA | In Progress |
 
 ## Stack
 The CI tooling is consistent across repositories—tox, black, isort, autoflake, flake8, mypy. Pytest for testing. MLflow for experiment tracking, when necessary. PyTorch is a common visitor across repositories. GitHub Actions for CI.
